@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ImageProcessLib:jar">
+    <output-path>$PROJECT_DIR$/../build</output-path>
+    <root id="archive" name="ImageProcessLib.jar">
+      <element id="module-output" name="ImageProcessLib" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openpnp/opencv/3.2.0-0/opencv-3.2.0-0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
